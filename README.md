@@ -38,7 +38,7 @@ Windows → Task Scheduler
 
 Clone the repository
 
-git clone https://github.com/yourusername/auto-news.git
+git clone https://github.com/KRUSHNAPALSINHH/autonews_django_project.git
 cd auto-news
 
 
@@ -101,9 +101,7 @@ http://127.0.0.1:8000/admin/
 4. Automatic Scheduling
 
 Windows (via Task Scheduler)
-
 Open Task Scheduler
-
 Create Basic Task → Run every 30 minutes
 
 Action:
@@ -133,13 +131,13 @@ auto_news/
 
 ## 🖼 Example Screenshots  
 📷 **Dashboard Page:**  
-![Dashboard](images\dashboard.png)  
+<img src="images/dashboard.png" alt="Dashboard" width="500"/>
 
 📷 **Admin Panel:**  
-![Admin](images/admin.png)  
+<img src="images/admin.png" alt="Admin Panel" width="500"/>
 
 📷 **Console Output (fetch_news):**  
-![Console Output](images/console.png)  
+<img src="images/console.png" alt="Console" width="500"/> 
 
 ---
 
